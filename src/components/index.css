@@ -1,11 +1,14 @@
-/* Global Styles */
+
 :root {
     --primary-blue: #64C5EB;
     
     --dark-text: #2C3E50;
     --light-text: #777;
+
     --bg-light: #F8F9FA;
+
     --white: #FFFFFF;
+
     --footer-bg: #F4F6F7;
     --footer-bottom-bg: #111;
 
@@ -44,7 +47,7 @@ ul {
     list-style: none;
 }
 
-/* Top Bar */
+/* Top Bar =========================================================================================*/
 .top-bar {
     background-color: var(--white);
     padding: 10px 0;
@@ -80,7 +83,7 @@ ul {
     font-size: 11px;
 }
 
-/* Navbar */
+/* Navbar strt hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh*/
 .navbar {
     background-color: var(--white);
     padding: 20px 0;

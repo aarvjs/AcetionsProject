@@ -7,6 +7,9 @@ const HeroSection = () => {
 
     return (
         <section className="about-section">
+
+
+            
             <div className="container">
 
                 <div className="about-grid">
