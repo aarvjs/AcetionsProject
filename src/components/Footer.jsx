@@ -36,7 +36,7 @@ const Footer = () => {
             <div className="footer-bottom">
                 <div className="container">
                     <p>&copy; Mehra Group. All Rights Reserved.</p>
-                    <p>Developed by <a href="#">Varkama Technologics Pvt. Ltd.</a></p>
+                    <p>Developed by <a href="#">Arvind Kumar Yadav</a></p>
                 </div>
             </div>
         </footer>

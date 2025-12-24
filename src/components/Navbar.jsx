@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
+import Low from '../assets/low.avif';
 function Navbar() {
   const [open, setOpen] = useState(false);
 
@@ -8,8 +9,9 @@ function Navbar() {
       <div className="container">
         <div className="logo">
           <img
-            src="https://placehold.co/100x50?text=MEHRA"
+            src={Low}
             alt="Mehra Group Logo"
+            style={{width:'40px', }}
           />
         </div>
 
