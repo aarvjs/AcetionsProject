@@ -23,7 +23,7 @@ const HeroSection = () => {
                     <div className="about-content">
                         
                       <div className="about-line">
-  <h4 className="sub-title">ABOUT US</h4>
+  <h4 className="sub-title">Hi, This is Arvind</h4>
   <h2 className="main-title">
     WE KEEP YOUR PETS <br /> HAPPY ALL TIME
   </h2>
